@@ -9,5 +9,6 @@ A workaround until Palm does the right thing and supports the W3C Geolocation AP
 Install Palm SDK
 
 git clone [url]
-palm-package flickr-nearby-webos
+cd flickr-nearby-webos
+palm-package src
 palm-install com.flickr.nearby*.ipk
