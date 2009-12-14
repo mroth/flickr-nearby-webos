@@ -1,0 +1,6 @@
+Source code for blog post at:
+http://mroth.info/blog/2009/07/08/palm-pre-mojo-sdk-experiments/
+
+Quick and dirty webos hack to open a browser window to the mobile Flickr Nearby page, using location services to determine the correct location.
+
+A workaround until Palm does the right thing and supports the W3C Geolocation API in the webkit browser, so m.flickr.com will support it natively.
