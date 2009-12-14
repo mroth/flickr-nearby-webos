@@ -5,5 +5,5 @@
 	"type": "web",
 	"main": "index.html",
 	"title": "Flickr Nearby",
-	"icon": "flickr-pre-icon.png"
+	"icon": "images/flickr-pre-icon.png"
 }
