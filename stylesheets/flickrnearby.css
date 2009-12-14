@@ -1,0 +1,21 @@
+/* Put Application specific CSS here. */
+body.flickr {
+  background: #fff;
+}
+.flickr_button {
+
+}
+h1 {
+  font-size: 18px;
+}
+#gpsSpinner {
+  float: right;
+  margin-right: 10px;
+  margin-top: 5px;
+}
+#mapWeb {
+  height: 160px;
+  width: 320px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}

@@ -1,0 +1,9 @@
+{
+	"id": "com.flickr.nearby",
+	"version": "0.1.0",
+	"vendor": "Flickr",
+	"type": "web",
+	"main": "index.html",
+	"title": "Flickr Nearby",
+	"icon": "flickr-pre-icon.png"
+}
